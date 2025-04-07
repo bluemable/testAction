@@ -1,5 +1,5 @@
 name: hello World
-on: hello world
+on: [issue creation]
 jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
